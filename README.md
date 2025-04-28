@@ -10,7 +10,7 @@ git clone git@github.com:PritomKarmokar/django_setup.git
 ### 2.Run the Initialization Script
 ```bash
 chmod +x init_django_project.sh
-./init_django_project.sh <project_name>
+./init_django_project.sh `<project_name>`
 ```
 ### 3.Activate the virtual environment
 ```bash
