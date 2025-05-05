@@ -3,7 +3,8 @@
 - It streamlines the process of creating a virtual environment, installing required dependencies, configuring database settings, and generating necessary project files.
 
 ## Usage
-### 1. Copy `init_django_project.sh` script \& then run the script
+### 1. Copy `init_django_project.sh` script \& `requirements.txt` file
+- Then run the following commands
 ```bash
 chmod +x init_django_project.sh
 ./init_django_project.sh `<project_name>`
